@@ -1,41 +1,88 @@
-<h1 align="center">Hi, I'm <strong>Shosei Abe</strong> 👋</h1>
+<!-- Banner -->
 <p align="center">
-  AI × Urban Informatics / Full-Stack Engineer  
-  <br/>
-  <em>Python • TypeScript • FastAPI • React • PostgreSQL • Docker</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shosei+%F0%9F%91%8B;AI+%E2%9C%8B+Urban+Informatics;Full%E2%80%91stack+Engineer+%7C+Researcher" alt="Typing SVG" />
+</p>
+
+<h2 align="center">🚀 Turning city data into smarter, safer streets.</h2>
+
+<p align="center">
+  <a href="https://github.com/Shosei-Abe">
+    <img src="https://img.shields.io/github/followers/Shosei-Abe?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/shosei-abe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:syousei1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shosei-Abe/CV/blob/main/CV_Shosei_Abe.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About me
-- Bachelor’s student @ Eszterhazy Karoly Catholic University, Computer Science  
-- Researching **Designing a Self-Improving Research Agent: A Practical Step Towards AGI
-with Formal Verification**
-- Love building from backend 🚀 frontend, then shipping to users
+### 🧑‍💻 About me
+- 🎓 **BSc Computer Science** @ *Eszterházy Károly Catholic University* (Stipendium Hungaricum Scholar)  
+- 🛠️ *Thesis*: **Self-Improving LLM Research Agent with Formal Verification**  
+- 🔭 Building **UrbanSpace Optimizer** – AI-powered curbside space management SaaS  
+- 💡 Interests: **LLM agents · Graph AI · Smart-city IoT · Formal methods**
 
-## 🔧 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,aws" height="32"/>
-</p>
+---
 
-## 📊 GitHub Stats
+### 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shosei-Abe&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shosei-Abe&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,typescript,rust,java&perline=7" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,dotnet,docker,aws,postgres,graphql,mongodb" />
 </p>
 
-## 🚀 Featured projects
-| Name | What it does | Tech |
-|------|--------------|------|
-| **IntelliScholar** | Chat with your research papers. | LangChain · Streamlit · Pinecone |
-| **UrbanSpace-Optimizer** | Realtime geospatial zoning optimiser. | React · Mapbox GL · Supabase |
-| **TodoApp** | Sample clean-arch API + CI/CD. | Express · MySQL · GitHub Actions |
+---
 
-> ⬇️ Check **Pinned repositories** for code & demos.
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shosei-Abe&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shosei-Abe&layout=compact&theme=tokyonight" />
+</p>
 
-## 🌱 OSS Contributions
-- Docs PRs to **FastAPI** & **Supabase JS**  
-- Hackathon 🥈 @ JunctionX Osaka 2024
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shosei-Abe&theme=tokyonight&no-bg=true&row=1&column=6"/>
+</p>
 
-## 📫 Reach me
-[Portfolio](https://abe.dev) • [LinkedIn](https://linkedin.com/in/shosei-abe) • <code>syousei1999@gmail.com</code>
+---
+
+### 🚀 Featured Projects
+| Project | Stack / Badges |
+|---|---|
+| **[IntelliScholar](https://github.com/Shosei-Abe/intellischolar)**<br/>Chat with your research papers. | LangChain · Streamlit · Pinecone <br/>![CI](https://github.com/Shosei-Abe/intellischolar/actions/workflows/ci.yml/badge.svg) |
+| **[UrbanSpace-Optimizer](https://github.com/Shosei-Abe/UrbanSpace-Optimizer)**<br/>Realtime geospatial zoning optimiser. | React · MapboxGL · Supabase |
+| **[TodoApp](https://github.com/Shosei-Abe/TodoApp)**<br/>Clean-arch API + CI/CD demo. | Express · MySQL · GitHub Actions |
+
+> ⬇️ Check **Pinned repositories** for code & live demos.
+
+---
+
+### 🌱 OSS Footprints
+- Docs & bug-fix PRs to **FastAPI**, **Supabase JS**  
+- 🥈 *JunctionX Osaka 2024* – Green Calendar (smart-city hackathon runner-up)  
+- 6️⃣ *JunctionX Budapest 2023* – Energy sustainability challenge  
+
+---
+
+### 📫 Get in touch
+<p align="center">
+  <a href="https://linkedin.com/in/shosei-abe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:syousei1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send-red?logo=gmail"></a>
+  <a href="https://abe.dev"><img src="https://img.shields.io/badge/Portfolio-abe.dev-black"></a>
+</p>
+
+---
+
+<details>
+<summary>📜 &nbsp; Quick stats</summary>
+
+- ⏳ **3+ years** professional & academic software experience  
+- 🚀 **50k+** lines of code shipped across 30 repos  
+- 🗺️ Lived / worked in **Japan 🇯🇵 · Hungary 🇭🇺**
+
+</details>
