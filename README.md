@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shosei+%F0%9F%91%8B;AI+%E2%9C%8B+Urban+Informatics;Full%E2%80%91stack+Engineer+%7C+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shosei+%F0%9F%91%8B;AI+%E2%9C%8B+Computer+Science+AI+Data+Science;Full%E2%80%91stack+Engineer+%7C+Researcher" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 Turning city data into smarter, safer streets.</h2>
@@ -9,13 +9,13 @@
   <a href="https://github.com/Shosei-Abe">
     <img src="https://img.shields.io/github/followers/Shosei-Abe?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/shosei-abe">
+  <a href="https://www.linkedin.com/in/shoseiabe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:syousei1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Shosei-Abe/CV/blob/main/CV_Shosei_Abe.pdf">
+  <a href="https://docs.google.com/document/d/1Aa1NT_NUspLjfT6Wu4EnEnBzxfQYLYcJ/edit?usp=sharing&ouid=112526321715738430776&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/CV-PDF-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
