@@ -64,8 +64,8 @@
 
 ### 🌱 OSS Footprints
 - Docs & bug-fix PRs to **FastAPI**, **Supabase JS**  
-- 🥈 *JunctionX Osaka 2024* – Green Calendar (smart-city hackathon runner-up)  
-- 6️⃣ *JunctionX Budapest 2023* – Energy sustainability challenge  
+- 🥈 *Builders Weekend 2023* – Green Calendar (smart-city hackathon runner-up)  
+- 6️⃣ *JunctionX Budapest 2024* – Energy sustainability challenge  
 
 ---
 
