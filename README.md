@@ -8,8 +8,9 @@
 ---
 
 ## 🧑‍💻 About me
-- Master’s student @ Kyoto University, Urban Informatics  
-- Researching **LLM-powered urban data tools** (traffic flow, zoning)  
+- Bachelor’s student @ Eszterhazy Karoly Catholic University, Computer Science  
+- Researching **Designing a Self-Improving Research Agent: A Practical Step Towards AGI
+with Formal Verification**
 - Love building from backend 🚀 frontend, then shipping to users
 
 ## 🔧 Tech Stack
@@ -37,4 +38,4 @@
 - Hackathon 🥈 @ JunctionX Osaka 2024
 
 ## 📫 Reach me
-[Portfolio](https://abe.dev) • [LinkedIn](https://linkedin.com/in/shosei-abe) • <code>abe@example.com</code>
+[Portfolio](https://abe.dev) • [LinkedIn](https://linkedin.com/in/shosei-abe) • <code>syousei1999@gmail.com</code>
