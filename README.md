@@ -71,7 +71,7 @@
 
 ### 📫 Get in touch
 <p align="center">
-  <a href="https://linkedin.com/in/shosei-abe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/shoseiabe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:syousei1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send-red?logo=gmail"></a>
   <a href="https://abe.dev"><img src="https://img.shields.io/badge/Portfolio-abe.dev-black"></a>
 </p>
