@@ -73,7 +73,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shoseiabe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:syousei1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send-red?logo=gmail"></a>
-  <a href="https://glittering-melba-30bfdc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black"></a>
+  <a href="https://glittering-melba-30bfdc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Shosei Abe-black"></a>
 </p>
 
 ---
