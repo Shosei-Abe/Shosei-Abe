@@ -15,7 +15,7 @@
   <a href="mailto:syousei1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://drive.google.com/file/d/16R-GL0o81u48k9FiXPWOf56YgEE9gi-D/view?usp=sharing](https://drive.google.com/file/d/1bZjCf89vZi5jH-nweLxpNRKQg7xBu0hi/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/16R-GL0o81u48k9FiXPWOf56YgEE9gi-D/view?usp=sharing](https://drive.google.com/file/d/1bZjCf89vZi5jH-nweLxpNRKQg7xBu0hi/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-PDF-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
