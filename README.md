@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Shosei Abe
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Shosei Abe
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher;Building+the+Future+of+AI;LLM+Agents+%7C+Smart+Cities;4%2B+Years+Experience" alt="Typing SVG" />
+</p>
 
 🚀 **Turning AI research into production-ready solutions.**
 
@@ -9,7 +13,7 @@
 - 🎓 **BSc Computer Science** @ *Eszterházy Károly Catholic University* (Stipendium Hungaricum Scholar) – Expected 06/2026
 - 🏆 **Winner** of ElevenLabs Hackathon Budapest 2026
 - 🛠️ *Thesis*: **Designing a Self-Improving Research Agent: A Practical Step Towards AGI with Formal Verification**
-- 🔭 Currently building **[UrbanSpace Optimizer](https://github.com/Shosei-Abe/UrbanSpace-Optimizer)** – AI-powered curbside space management SaaS
+- 🔭 Currently building **[UrbanSpace Optimizer](https://github.com/Shosei-Abe/Urban_Space_Optimizer_Spacio)** – AI-powered curbside space management SaaS
 - 💼 **Data Engineering Intern** @ Refonte Learning (Dec 2024 - Jun 2025)
 - 💡 Interests: **LLM agents · RAG systems · Sound AI · Smart-city IoT · Formal methods · AI Safety**
 
@@ -40,9 +44,21 @@
 
 ## 📈 GitHub Stats
 
-![Shosei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shosei-Abe&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shosei-Abe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shosei-Abe&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shosei-Abe&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shosei-Abe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shosei-Abe&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -50,11 +66,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Friction](https://github.com/Shosei-Abe/friction)** | 🏆 **ElevenLabs Hackathon Budapest Winner** – Conversational AI agent reducing impulse purchases by 73% (n=150) | React Native · Node.js · LangChain · Pinecone · ElevenLabs Voice API · GPT-4 |
-| **[IntelliScholar](https://github.com/Shosei-Abe/intellischolar)** | Chat with your research papers using RAG | LangChain · Streamlit · Pinecone ![CI](https://github.com/Shosei-Abe/intellischolar/actions/workflows/ci.yml/badge.svg) |
-| **[UrbanSpace Optimizer](https://github.com/Shosei-Abe/UrbanSpace-Optimizer)** | Real-time curbside optimization with IoT sensors & AI analytics | React · MapboxGL · Supabase · IoT |
-| **[Wizard's Duel](https://github.com/Shosei-Abe/wizards-duel)** | Multiplayer strategy card game with AI opponents | React · WebSocket · Game AI |
-| **[AGI Research Agent](https://github.com/Shosei-Abe/agi-research-agent)** | Bachelor's thesis: Self-improving LLM agent with formal verification (Z3, Coq) | LangGraph · Python · Z3 · Formal Methods |
+| **[Friction](https://github.com/Shosei-Abe/Friction_agents)** | 🏆 **ElevenLabs Hackathon Budapest Winner** – Conversational AI agent reducing impulse purchases by 73% (n=150) | React Native · Node.js · LangChain · Pinecone · ElevenLabs Voice API · GPT-4 |
+| **[IntelliScholar](https://github.com/Shosei-Abe/intellischolar)** | Chat with your research papers using RAG | LangChain · Streamlit · Pinecone |
+| **[UrbanSpace Optimizer](https://github.com/Shosei-Abe/Urban_Space_Optimizer_Spacio)** | Real-time curbside optimization with IoT sensors & AI analytics | React · MapboxGL · Supabase · IoT |
+| **[Wizard's Duel](https://github.com/Shosei-Abe/Wizard-s-Duel)** | Multiplayer strategy card game with AI opponents | React · WebSocket · Game AI |
+| **[AGI Research Agent](https://github.com/Shosei-Abe/Designing-a-Self-Improving-Research-Agent-A-Practical-Step-Towards-AGI-with-Formal-Verification)** | Bachelor's thesis: Self-improving LLM agent with formal verification (Z3, Coq) | LangGraph · Python · Z3 · Formal Methods |
 | **[TodoApp](https://github.com/Shosei-Abe/TodoApp)** | Clean architecture API + CI/CD demo | Express · MySQL · GitHub Actions |
 
 > ⬇️ Check **Pinned repositories** for more code & live demos.
@@ -91,9 +107,9 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shosei-abe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoseiabe/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shosei-Abe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shosei-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shoseiabe.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syousei1999@gmail.com)
 
 ---
@@ -107,4 +123,10 @@
 
 ---
 
-💬 *"Building the future of AI, one commit at a time."*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  💬 <i>"Building the future of AI, one commit at a time."</i>
+</p>
